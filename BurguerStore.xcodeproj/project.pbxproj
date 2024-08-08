@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C12A93612C5FE960008AE150 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12A93602C5FE960008AE150 /* SignUpViewController.swift */; };
+		C12A93632C5FF940008AE150 /* SignInCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12A93622C5FF940008AE150 /* SignInCoordinator.swift */; };
+		C12A93652C6004D6008AE150 /* SignUpCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12A93642C6004D6008AE150 /* SignUpCoordinator.swift */; };
+		C13BC1AE2C5EC68300C823CD /* SignInViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13BC1AD2C5EC68300C823CD /* SignInViewModel.swift */; };
+		C13BC1B02C5EE0B200C823CD /* SignInState.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13BC1AF2C5EE0B200C823CD /* SignInState.swift */; };
 		C15D0A812C59DE6F00F31E4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15D0A802C59DE6F00F31E4E /* AppDelegate.swift */; };
 		C15D0A832C59DE6F00F31E4E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15D0A822C59DE6F00F31E4E /* SceneDelegate.swift */; };
-		C15D0A852C59DE6F00F31E4E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15D0A842C59DE6F00F31E4E /* ViewController.swift */; };
-		C15D0A882C59DE6F00F31E4E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C15D0A872C59DE6F00F31E4E /* Base */; };
 		C15D0A8A2C59DE7000F31E4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C15D0A892C59DE7000F31E4E /* Assets.xcassets */; };
 		C15D0A8D2C59DE7000F31E4E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C15D0A8C2C59DE7000F31E4E /* Base */; };
+		C1BE947A2C5B2C2F00184D18 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BE94792C5B2C2F00184D18 /* SignInViewController.swift */; };
+		C1FFB80D2C62E43B009D12FD /* SignUpViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB80C2C62E43B009D12FD /* SignUpViewModel.swift */; };
+		C1FFB80F2C62E4E4009D12FD /* SignUpState.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB80E2C62E4E4009D12FD /* SignUpState.swift */; };
+		C1FFB8142C62F91E009D12FD /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB8132C62F91E009D12FD /* HomeViewController.swift */; };
+		C1FFB8162C62FB60009D12FD /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB8152C62FB60009D12FD /* HomeCoordinator.swift */; };
+		C1FFB8182C62FC33009D12FD /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB8172C62FC33009D12FD /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C12A93602C5FE960008AE150 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		C12A93622C5FF940008AE150 /* SignInCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInCoordinator.swift; sourceTree = "<group>"; };
+		C12A93642C6004D6008AE150 /* SignUpCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpCoordinator.swift; sourceTree = "<group>"; };
+		C13BC1AD2C5EC68300C823CD /* SignInViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewModel.swift; sourceTree = "<group>"; };
+		C13BC1AF2C5EE0B200C823CD /* SignInState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInState.swift; sourceTree = "<group>"; };
 		C15D0A7D2C59DE6F00F31E4E /* BurguerStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BurguerStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C15D0A802C59DE6F00F31E4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C15D0A822C59DE6F00F31E4E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C15D0A842C59DE6F00F31E4E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C15D0A872C59DE6F00F31E4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C15D0A892C59DE7000F31E4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C15D0A8C2C59DE7000F31E4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C15D0A8E2C59DE7000F31E4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1BE94792C5B2C2F00184D18 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		C1FFB80C2C62E43B009D12FD /* SignUpViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewModel.swift; sourceTree = "<group>"; };
+		C1FFB80E2C62E4E4009D12FD /* SignUpState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpState.swift; sourceTree = "<group>"; };
+		C1FFB8132C62F91E009D12FD /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		C1FFB8152C62FB60009D12FD /* HomeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCoordinator.swift; sourceTree = "<group>"; };
+		C1FFB8172C62FC33009D12FD /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +55,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C12A935E2C5FE938008AE150 /* SignUp */ = {
+			isa = PBXGroup;
+			children = (
+				C1FFB80B2C62E424009D12FD /* ViewModel */,
+				C12A935F2C5FE947008AE150 /* View */,
+				C12A93642C6004D6008AE150 /* SignUpCoordinator.swift */,
+			);
+			path = SignUp;
+			sourceTree = "<group>";
+		};
+		C12A935F2C5FE947008AE150 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C12A93602C5FE960008AE150 /* SignUpViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C13BC1AC2C5EC65500C823CD /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				C13BC1AD2C5EC68300C823CD /* SignInViewModel.swift */,
+				C13BC1AF2C5EE0B200C823CD /* SignInState.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		C15D0A742C59DE6E00F31E4E = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +101,69 @@
 		C15D0A7F2C59DE6F00F31E4E /* BurguerStore */ = {
 			isa = PBXGroup;
 			children = (
+				C1FFB8102C62F8E5009D12FD /* Home */,
+				C12A935E2C5FE938008AE150 /* SignUp */,
+				C1BE94772C5B2BDB00184D18 /* SignIn */,
 				C15D0A802C59DE6F00F31E4E /* AppDelegate.swift */,
 				C15D0A822C59DE6F00F31E4E /* SceneDelegate.swift */,
-				C15D0A842C59DE6F00F31E4E /* ViewController.swift */,
-				C15D0A862C59DE6F00F31E4E /* Main.storyboard */,
 				C15D0A892C59DE7000F31E4E /* Assets.xcassets */,
 				C15D0A8B2C59DE7000F31E4E /* LaunchScreen.storyboard */,
 				C15D0A8E2C59DE7000F31E4E /* Info.plist */,
 			);
 			path = BurguerStore;
+			sourceTree = "<group>";
+		};
+		C1BE94772C5B2BDB00184D18 /* SignIn */ = {
+			isa = PBXGroup;
+			children = (
+				C13BC1AC2C5EC65500C823CD /* ViewModel */,
+				C1BE94782C5B2BED00184D18 /* View */,
+				C12A93622C5FF940008AE150 /* SignInCoordinator.swift */,
+			);
+			path = SignIn;
+			sourceTree = "<group>";
+		};
+		C1BE94782C5B2BED00184D18 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C1BE94792C5B2C2F00184D18 /* SignInViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C1FFB80B2C62E424009D12FD /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				C1FFB80C2C62E43B009D12FD /* SignUpViewModel.swift */,
+				C1FFB80E2C62E4E4009D12FD /* SignUpState.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		C1FFB8102C62F8E5009D12FD /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				C1FFB8122C62F905009D12FD /* View */,
+				C1FFB8112C62F8EF009D12FD /* ViewModel */,
+				C1FFB8152C62FB60009D12FD /* HomeCoordinator.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		C1FFB8112C62F8EF009D12FD /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				C1FFB8172C62FC33009D12FD /* HomeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		C1FFB8122C62F905009D12FD /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C1FFB8132C62F91E009D12FD /* HomeViewController.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +226,6 @@
 			files = (
 				C15D0A8A2C59DE7000F31E4E /* Assets.xcassets in Resources */,
 				C15D0A8D2C59DE7000F31E4E /* Base in Resources */,
-				C15D0A882C59DE6F00F31E4E /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +236,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C15D0A852C59DE6F00F31E4E /* ViewController.swift in Sources */,
+				C12A93612C5FE960008AE150 /* SignUpViewController.swift in Sources */,
+				C13BC1AE2C5EC68300C823CD /* SignInViewModel.swift in Sources */,
+				C1BE947A2C5B2C2F00184D18 /* SignInViewController.swift in Sources */,
 				C15D0A812C59DE6F00F31E4E /* AppDelegate.swift in Sources */,
+				C1FFB80D2C62E43B009D12FD /* SignUpViewModel.swift in Sources */,
+				C1FFB8162C62FB60009D12FD /* HomeCoordinator.swift in Sources */,
+				C12A93652C6004D6008AE150 /* SignUpCoordinator.swift in Sources */,
+				C12A93632C5FF940008AE150 /* SignInCoordinator.swift in Sources */,
+				C1FFB8182C62FC33009D12FD /* HomeViewModel.swift in Sources */,
+				C1FFB8142C62F91E009D12FD /* HomeViewController.swift in Sources */,
+				C1FFB80F2C62E4E4009D12FD /* SignUpState.swift in Sources */,
 				C15D0A832C59DE6F00F31E4E /* SceneDelegate.swift in Sources */,
+				C13BC1B02C5EE0B200C823CD /* SignInState.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C15D0A862C59DE6F00F31E4E /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C15D0A872C59DE6F00F31E4E /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		C15D0A8B2C59DE7000F31E4E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -297,7 +397,6 @@
 				INFOPLIST_FILE = BurguerStore/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -325,7 +424,6 @@
 				INFOPLIST_FILE = BurguerStore/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

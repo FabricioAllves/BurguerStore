@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>F50B143C-EA6C-4649-8B7E-AAF18D2C75BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F50B143C-EA6C-4649-8B7E-AAF18D2C75BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BurguerStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BurguerStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BurguerStore</string>
+			<key>timeStartedRecording</key>
+			<real>744693415.21901596</real>
+			<key>timeStoppedRecording</key>
+			<real>744693415.46180201</real>
+			<key>title</key>
+			<string>Build BurguerStore</string>
+			<key>uniqueIdentifier</key>
+			<string>F50B143C-EA6C-4649-8B7E-AAF18D2C75BE</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

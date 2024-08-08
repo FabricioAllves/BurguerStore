@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7387a5d0005283d596cbfe665184f3f4625fdbcc5c84b05040f07b6c33b5f260"
+    }
+  ],
+  "containerPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Products",
+      "derivedDataPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "F99A6083-317B-4FDA-AE9A-753CC441BFA5",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "profile",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

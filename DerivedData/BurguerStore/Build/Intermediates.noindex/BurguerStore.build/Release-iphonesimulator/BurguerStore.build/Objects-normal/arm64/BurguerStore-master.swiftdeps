@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "959960d46a06de1c1518ccfd69ee8de7f8041744df8ae44356cee4074b008f21"
+build_start_time: [1722982543, 220565000]
+build_end_time: [1722982543, 819385000]
+inputs:
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/AppDelegate.swift": [1722394351, 30543715]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SceneDelegate.swift": [1722794868, 547371768]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/SignInCoordinator.swift": [1722982505, 982726120]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/View/SignInViewController.swift": [1722982543, 21900766]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/ViewModel/SignInState.swift": [1722722768, 414549923]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/ViewModel/SignInViewModel.swift": [1722797734, 938995034]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignUp/SignUpCoordinator.swift": [1722797734, 904525080]
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignUp/View/SignUpViewController.swift": [1722790513, 128186401]
+  ? "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1722709464, 68090627]

@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'BurguerStore' in project 'BurguerStore' (no dependencies)
+Target 'BurguerStore' in project 'BurguerStore' (no dependencies)

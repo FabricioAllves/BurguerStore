@@ -1,0 +1,55 @@
+{
+  "" : {
+    "const-values" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/BurguerStore-master.swiftconstvalues",
+    "dependencies" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/BurguerStore-master.d",
+    "diagnostics" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/BurguerStore-master.dia",
+    "emit-module-dependencies" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/BurguerStore-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/BurguerStore-master-emit-module.dia",
+    "swift-dependencies" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/BurguerStore-master.swiftdeps"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/AppDelegate.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SceneDelegate.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SceneDelegate.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/SignInCoordinator.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInCoordinator.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInCoordinator.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInCoordinator.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/View/SignInViewController.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInViewController.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInViewController.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInViewController.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/ViewModel/SignInState.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInState.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInState.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInState.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignIn/ViewModel/SignInViewModel.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInViewModel.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInViewModel.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignInViewModel.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignUp/SignUpCoordinator.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignUpCoordinator.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignUpCoordinator.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignUpCoordinator.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/BurguerStore/SignUp/View/SignUpViewController.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignUpViewController.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignUpViewController.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/SignUpViewController.o"
+  },
+  "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fabriciohenrique/Documents/Swift ios/BurguerStore/DerivedData/BurguerStore/Build/Intermediates.noindex/BurguerStore.build/Release-iphonesimulator/BurguerStore.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
